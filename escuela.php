@@ -14,6 +14,7 @@ include('include/ini.php');
 	<form method="POST" action="contactenos.php">
 		<div class="content">
 			<h1>Pagina en Construcción</h1>
+			<h2>Ya casi estamos listos</h2>
 		</div>
 	</form>
 </section> <!-- / #main-content -->
