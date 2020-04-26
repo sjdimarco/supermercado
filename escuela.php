@@ -8,7 +8,7 @@ include('include/ini.php');
 	<title>ADAES Costa Rica</title>
 	<link rel="stylesheet" href="css/styles.css"  type="text/css"  />
 </head>
-<body>
+<body style="background=blue;">
 <?php include 'include/header.php';?>
 <section id="main-content">
 	<form method="POST" action="contactenos.php">
